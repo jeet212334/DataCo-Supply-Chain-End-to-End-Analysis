@@ -161,13 +161,9 @@ An interactive **single-page Power BI dashboard** was created to provide a visua
 
 ---
 
-# 🖼️ Dashboard Preview
+### Dashboard Preview
 
-![DataCo Supply Chain Power BI Dashboard](images/dataco_dashboard.png)
-
-> **Note:** The dashboard is a single-page interactive Power BI report. The `.pbix` file is available in the repository for further exploration.
-
----
+![DataCo Supply Chain Dashboard](https://github.com/jeet212334/DataCo-Supply-Chain-End-to-End-Analysis/blob/main/Screenshot%202026-08-19%20222922.png)
 
 # 📈 Key Business Insights
 
